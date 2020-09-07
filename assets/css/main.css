@@ -3513,13 +3513,12 @@ input, select, textarea {
 
 	nav {
 		padding-top: 10px;
-		padding-bottom: -10px;
+		padding-bottom: 10px;
 	}
 
 	nav li {
 		list-style-type: none;
-		margin: 10px;
+		margin: 0px;
 		display: inline;
-		padding: 30px;
-		padding-bottom: 30px;;
+		padding: 15px;
 	}
