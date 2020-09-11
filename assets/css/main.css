@@ -3512,13 +3512,14 @@ input, select, textarea {
 	}
 
 	nav {
-		padding-top: 10px;
-		padding-bottom: 10px;
+		padding-top: 7.5px;
+		padding-bottom: 7.5px;
 	}
 
 	nav li {
 		list-style-type: none;
 		margin: 0px;
-		display: inline;
+		display: inline-block;
 		padding: 15px;
 	}
+
