@@ -3514,6 +3514,7 @@ input, select, textarea {
 	nav {
 		padding-top: 7.5px;
 		padding-bottom: 7.5px;
+		margin-left: 75px;
 	}
 
 	nav li {
@@ -3522,4 +3523,21 @@ input, select, textarea {
 		display: inline-block;
 		padding: 15px;
 	}
+
+	nav li a {
+		border-bottom-color: transparent !important;
+	}
+
+	.logo img {
+		position: absolute;
+		margin-top: 0px;
+		margin-top: 0px;
+		padding: 10px;
+	}
+
+	.navbar {
+		display: flex;
+		justify-content: flex-end;
+	}
+
 
